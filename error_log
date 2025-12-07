@@ -1,0 +1,417 @@
+[08-Sep-2025 16:30:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/iespaltohuallaga/registroauxiliar.iespaltohuallaga.edu.pe/registro_usuario.php:12
+Stack trace:
+#0 /home/iespaltohuallaga/registroauxiliar.iespaltohuallaga.edu.pe/registro_usuario.php(12): mysqli->__construct()
+#1 {main}
+  thrown in /home/iespaltohuallaga/registroauxiliar.iespaltohuallaga.edu.pe/registro_usuario.php on line 12
+[08-Sep-2025 16:30:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/iespaltohuallaga/registroauxiliar.iespaltohuallaga.edu.pe/registro_usuario.php:12
+Stack trace:
+#0 /home/iespaltohuallaga/registroauxiliar.iespaltohuallaga.edu.pe/registro_usuario.php(12): mysqli->__construct()
+#1 {main}
+  thrown in /home/iespaltohuallaga/registroauxiliar.iespaltohuallaga.edu.pe/registro_usuario.php on line 12
+[08-Sep-2025 16:30:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/iespaltohuallaga/registroauxiliar.iespaltohuallaga.edu.pe/registro_usuario.php:12
+Stack trace:
+#0 /home/iespaltohuallaga/registroauxiliar.iespaltohuallaga.edu.pe/registro_usuario.php(12): mysqli->__construct()
+#1 {main}
+  thrown in /home/iespaltohuallaga/registroauxiliar.iespaltohuallaga.edu.pe/registro_usuario.php on line 12
+[14-Sep-2025 21:58:59 America/Lima] Consultando DNI: 71882580 - 2025-09-14 21:58:59
+[14-Sep-2025 21:58:59 America/Lima] DNI encontrado en datos de prueba: 71882580
+[14-Sep-2025 21:59:09 America/Lima] Consultando DNI: 47259954 - 2025-09-14 21:59:09
+[14-Sep-2025 21:59:09 America/Lima] DNI no encontrado: 47259954
+[14-Sep-2025 22:01:03 America/Lima] Consultando DNI: 47259954 - 2025-09-14 22:01:03
+[14-Sep-2025 22:01:04 America/Lima] DNI no encontrado: 47259954
+[14-Sep-2025 22:11:37 America/Lima] Consultando DNI: 47259954 - 2025-09-14 22:11:37
+[14-Sep-2025 22:11:38 America/Lima] DNI no encontrado: 47259954
+[14-Sep-2025 22:14:37 America/Lima] Consultando DNI: 46027897 - 2025-09-14 22:14:37
+[14-Sep-2025 22:14:38 America/Lima] DNI no encontrado: 46027897
+[14-Sep-2025 22:17:15 America/Lima] Consultando DNI: 71882580 - 2025-09-14 22:17:15
+[14-Sep-2025 22:17:15 America/Lima] DNI encontrado en datos de prueba: 71882580
+[14-Sep-2025 22:17:26 America/Lima] Consultando DNI: 47259954 - 2025-09-14 22:17:26
+[14-Sep-2025 22:17:27 America/Lima] DNI no encontrado: 47259954
+[14-Sep-2025 22:19:02 America/Lima] Consultando DNI: 47259954 - 2025-09-14 22:19:02
+[14-Sep-2025 22:19:03 America/Lima] DNI no encontrado: 47259954
+[14-Sep-2025 22:19:07 America/Lima] Consultando DNI: 47259954 - 2025-09-14 22:19:07
+[14-Sep-2025 22:19:07 America/Lima] DNI no encontrado: 47259954
+[14-Sep-2025 22:19:43 America/Lima] Consultando DNI: 46027897 - 2025-09-14 22:19:43
+[14-Sep-2025 22:19:43 America/Lima] DNI encontrado en datos de prueba: 46027897
+[14-Sep-2025 22:22:25 America/Lima] Consultando DNI: 47259954 - 2025-09-14 22:22:25
+[14-Sep-2025 22:22:26 America/Lima] DNI no encontrado: 47259954
+[14-Sep-2025 22:23:44 America/Lima] Consultando DNI: 47259954 - 2025-09-14 22:23:44
+[14-Sep-2025 22:23:44 America/Lima] DNI encontrado en Decolecta: 47259954
+[14-Sep-2025 22:23:56 America/Lima] Consultando DNI: 01187174 - 2025-09-14 22:23:56
+[14-Sep-2025 22:23:56 America/Lima] DNI encontrado en Decolecta: 01187174
+[14-Sep-2025 22:24:30 America/Lima] Consultando DNI: 19411386 - 2025-09-14 22:24:30
+[14-Sep-2025 22:24:31 America/Lima] DNI encontrado en Decolecta: 19411386
+[14-Sep-2025 22:27:23 America/Lima] Consultando DNI: 46027897 - 2025-09-14 22:27:23
+[14-Sep-2025 22:27:23 America/Lima] DNI encontrado en Decolecta: 46027897
+[14-Sep-2025 22:28:23 America/Lima] Consultando DNI: 46190611 - 2025-09-14 22:28:23
+[14-Sep-2025 22:28:24 America/Lima] DNI encontrado en Decolecta: 46190611
+[14-Sep-2025 22:32:28 America/Lima] Consultando DNI: 71882580 - 2025-09-14 22:32:28
+[14-Sep-2025 22:32:28 America/Lima] DNI encontrado en Decolecta: 71882580
+[14-Sep-2025 22:33:16 America/Lima] Consultando DNI: 80380985 - 2025-09-14 22:33:16
+[14-Sep-2025 22:33:16 America/Lima] DNI encontrado en Decolecta: 80380985
+[15-Sep-2025 10:12:50 America/Lima] Consultando DNI: 74946459 - 2025-09-15 10:12:50
+[15-Sep-2025 10:12:51 America/Lima] DNI encontrado en Decolecta: 74946459
+[15-Sep-2025 10:20:39 America/Lima] Registro exitoso - DNI: 60036360, Nombres: MARK ANTHONY CUMAPA MEJIA, Tipo: estudiante
+[15-Sep-2025 10:21:15 America/Lima] Registro exitoso - DNI: 60644500, Nombres: EMERSON CARRION MALPARTIDA, Tipo: estudiante
+[15-Sep-2025 10:21:32 America/Lima] Consultando DNI: 62449042 - 2025-09-15 10:21:32
+[15-Sep-2025 10:21:33 America/Lima] DNI encontrado en Decolecta: 62449042
+[15-Sep-2025 10:21:50 America/Lima] Registro exitoso - DNI: 71252385, Nombres: JONATAN JUGLAR PINO HERRERA, Tipo: estudiante
+[15-Sep-2025 10:23:05 America/Lima] Consultando DNI: 61119420 - 2025-09-15 10:23:05
+[15-Sep-2025 10:23:05 America/Lima] DNI encontrado en Decolecta: 61119420
+[15-Sep-2025 10:23:22 America/Lima] Registro exitoso - DNI: 60269179, Nombres: LUIS ANGELO DOMINGUEZ PONTE, Tipo: estudiante
+[15-Sep-2025 10:23:23 America/Lima] Registro exitoso - DNI: 73308969, Nombres: LUIS JULIO MORENO SáNCHEZ, Tipo: estudiante
+[15-Sep-2025 10:23:43 America/Lima] Registro exitoso - DNI: 61119420, Nombres: DIEGO GERMAN GRANDEZ TORRES, Tipo: estudiante
+[15-Sep-2025 10:23:48 America/Lima] Registro exitoso - DNI: 62449042, Nombres: HUMBERTO AGUIRRE OTINIANO, Tipo: estudiante
+[15-Sep-2025 10:24:01 America/Lima] Registro exitoso - DNI: 60841929, Nombres: GINO BRANDAN ROJAS, Tipo: estudiante
+[15-Sep-2025 10:34:01 America/Lima] Consultando DNI: 77027008 - 2025-09-15 10:34:01
+[15-Sep-2025 10:34:02 America/Lima] DNI encontrado en Decolecta: 77027008
+[15-Sep-2025 10:37:43 America/Lima] Registro exitoso - DNI: 60445107, Nombres: JERSON FLORES MONDALGO, Tipo: estudiante
+[15-Sep-2025 10:38:03 America/Lima] Consultando DNI: 77027008 - 2025-09-15 10:38:03
+[15-Sep-2025 10:38:03 America/Lima] DNI encontrado en Decolecta: 77027008
+[15-Sep-2025 10:42:45 America/Lima] Consultando DNI: 77027008 - 2025-09-15 10:42:45
+[15-Sep-2025 10:42:46 America/Lima] DNI encontrado en Decolecta: 77027008
+[15-Sep-2025 10:42:55 America/Lima] Consultando DNI: 75884158 - 2025-09-15 10:42:55
+[15-Sep-2025 10:42:55 America/Lima] DNI encontrado en Decolecta: 75884158
+[15-Sep-2025 10:44:00 America/Lima] Registro exitoso - DNI: 75884158, Nombres: MOISES PIZANGO TAPULLIMA, Tipo: estudiante
+[15-Sep-2025 10:45:06 America/Lima] Registro exitoso - DNI: 77027008, Nombres: LUIS HERNANDEZ RAMOS, Tipo: estudiante
+[15-Sep-2025 10:46:36 America/Lima] Consultando DNI: 73574195 - 2025-09-15 10:46:36
+[15-Sep-2025 10:46:37 America/Lima] DNI encontrado en Decolecta: 73574195
+[15-Sep-2025 10:47:39 America/Lima] Registro exitoso - DNI: 73574195, Nombres: BRAESLY VASQUEZ NODRE, Tipo: estudiante
+[15-Sep-2025 10:48:35 America/Lima] Consultando DNI: 47259954 - 2025-09-15 10:48:35
+[15-Sep-2025 10:48:36 America/Lima] DNI encontrado en Decolecta: 47259954
+[15-Sep-2025 10:48:42 America/Lima] Consultando DNI: 60841862 - 2025-09-15 10:48:42
+[15-Sep-2025 10:48:42 America/Lima] DNI encontrado en Decolecta: 60841862
+[15-Sep-2025 10:49:34 America/Lima] Registro exitoso - DNI: 60841862, Nombres: ESTHER BERMUDEZ AGUIRRE, Tipo: estudiante
+[15-Sep-2025 10:49:37 America/Lima] Consultando DNI: 63259152 - 2025-09-15 10:49:37
+[15-Sep-2025 10:49:38 America/Lima] DNI encontrado en Decolecta: 63259152
+[15-Sep-2025 10:49:56 America/Lima] Registro exitoso - DNI: 60841982, Nombres: MARLIN PINO MEZARINO, Tipo: estudiante
+[15-Sep-2025 10:50:13 America/Lima] Consultando DNI: 60984120 - 2025-09-15 10:50:13
+[15-Sep-2025 10:50:13 America/Lima] DNI encontrado en Decolecta: 60984120
+[15-Sep-2025 10:50:16 America/Lima] Registro exitoso - DNI: 60555495, Nombres: ELIZABETH CHAVEZ PEREZ, Tipo: estudiante
+[15-Sep-2025 10:50:32 America/Lima] Registro exitoso - DNI: 60984185, Nombres: MIRELIA DAILY MENDOZA LEYVA, Tipo: estudiante
+[15-Sep-2025 10:51:13 America/Lima] Registro exitoso - DNI: 60984120, Nombres: JOSUE ARTURO ACHULLA LOPEZ, Tipo: estudiante
+[15-Sep-2025 10:51:15 America/Lima] Registro exitoso - DNI: 62109370, Nombres: ANASTACIA VILLANUEVA GUILLERMO, Tipo: estudiante
+[15-Sep-2025 10:51:25 America/Lima] Registro exitoso - DNI: 61370157, Nombres: ANAHI CAMPOS RODRíGUEZ, Tipo: estudiante
+[15-Sep-2025 10:52:00 America/Lima] Registro exitoso - DNI: 61300417, Nombres: ANGELA NAELY VARA ZEñA, Tipo: estudiante
+[15-Sep-2025 10:52:30 America/Lima] Registro exitoso - DNI: 60262918, Nombres: DEYLI MEDALI CENIZARIO TRUJILLO, Tipo: estudiante
+[15-Sep-2025 10:53:01 America/Lima] Registro exitoso - DNI: 62682202, Nombres: RUBI GUILLEN MARGARIN, Tipo: estudiante
+[15-Sep-2025 10:53:02 America/Lima] Consultando DNI: 62970248 - 2025-09-15 10:53:02
+[15-Sep-2025 10:53:03 America/Lima] DNI no encontrado: 62970248
+[15-Sep-2025 10:53:43 America/Lima] Consultando DNI: 62970648 - 2025-09-15 10:53:43
+[15-Sep-2025 10:53:43 America/Lima] DNI encontrado en Decolecta: 62970648
+[15-Sep-2025 10:54:07 America/Lima] Registro exitoso - DNI: 62970648, Nombres: BRANDY YEISON SINTI VASQUEZ, Tipo: estudiante
+[15-Sep-2025 10:54:25 America/Lima] Registro exitoso - DNI: 63338272, Nombres: MAX JARLIN VASQUEZ SHAHUANO, Tipo: estudiante
+[15-Sep-2025 10:55:09 America/Lima] Registro exitoso - DNI: 62970555, Nombres: MARíA CLARA ISHUIZA DELGADO, Tipo: estudiante
+[15-Sep-2025 10:55:14 America/Lima] Registro exitoso - DNI: 60913170, Nombres: REGINA NUñEZ ABAD, Tipo: estudiante
+[15-Sep-2025 10:55:27 America/Lima] Consultando DNI: 76863993 - 2025-09-15 10:55:27
+[15-Sep-2025 10:55:27 America/Lima] DNI encontrado en Decolecta: 76863993
+[15-Sep-2025 10:56:07 America/Lima] Consultando DNI: 63259152 - 2025-09-15 10:56:07
+[15-Sep-2025 10:56:07 America/Lima] DNI encontrado en Decolecta: 63259152
+[15-Sep-2025 10:56:25 America/Lima] Registro exitoso - DNI: 75856304, Nombres: LUIS ANGEL VITON HIZO, Tipo: estudiante
+[15-Sep-2025 10:56:27 America/Lima] Registro exitoso - DNI: 63259152, Nombres: YANITZA MAYTE QUISPE CRUZ, Tipo: estudiante
+[15-Sep-2025 10:57:05 America/Lima] Registro exitoso - DNI: 76863993, Nombres: MARISOL TALIA MORON HUAYANAY, Tipo: estudiante
+[15-Sep-2025 10:57:16 America/Lima] Consultando DNI: 75856304 - 2025-09-15 10:57:16
+[15-Sep-2025 10:57:16 America/Lima] DNI encontrado en Decolecta: 75856304
+[15-Sep-2025 10:58:34 America/Lima] Registro exitoso - DNI: 78062141, Nombres: LUIS FERNANDO CERRON MORENO, Tipo: estudiante
+[15-Sep-2025 10:59:41 America/Lima] Registro exitoso - DNI: 75907787, Nombres: LUZBIT ROXANA SALINAS VALDIVIEZO, Tipo: estudiante
+[15-Sep-2025 11:05:56 America/Lima] Consultando DNI: 60516749 - 2025-09-15 11:05:56
+[15-Sep-2025 11:05:57 America/Lima] DNI encontrado en Decolecta: 60516749
+[15-Sep-2025 11:06:30 America/Lima] Registro exitoso - DNI: 60516675, Nombres: ALICIA CRYSTEL CHINGAY ARANDA, Tipo: estudiante
+[15-Sep-2025 11:06:46 America/Lima] Registro exitoso - DNI: 60516749, Nombres: MARLYZ TATIANA MORALES SABINO, Tipo: estudiante
+[15-Sep-2025 13:15:39 America/Lima] Consultando DNI: 10070692 - 2025-09-15 13:15:39
+[15-Sep-2025 13:15:39 America/Lima] DNI encontrado en Decolecta: 10070692
+[15-Sep-2025 19:11:25 America/Lima] Consultando DNI: 47259954 - 2025-09-15 19:11:25
+[15-Sep-2025 19:11:26 America/Lima] DNI encontrado en Decolecta: 47259954
+[15-Sep-2025 19:12:04 America/Lima] Registro exitoso - DNI: 60630542, Nombres: WILLIAN PINCHI, Tipo: estudiante
+[15-Sep-2025 20:07:04 America/Lima] Consultando DNI: 47259954 - 2025-09-15 20:07:04
+[15-Sep-2025 20:07:04 America/Lima] DNI encontrado en Decolecta: 47259954
+[15-Sep-2025 20:08:08 America/Lima] Consultando DNI: 77027008 - 2025-09-15 20:08:08
+[15-Sep-2025 20:08:08 America/Lima] DNI encontrado en Decolecta: 77027008
+[15-Sep-2025 20:08:22 America/Lima] Consultando DNI: 76775181 - 2025-09-15 20:08:22
+[15-Sep-2025 20:08:22 America/Lima] DNI encontrado en Decolecta: 76775181
+[15-Sep-2025 20:08:28 America/Lima] Consultando DNI: 75339333 - 2025-09-15 20:08:28
+[15-Sep-2025 20:08:28 America/Lima] DNI encontrado en Decolecta: 75339333
+[15-Sep-2025 20:09:02 America/Lima] Registro exitoso - DNI: 75339333, Nombres: JUBER ARMANDO ORTIZ MORENO, Tipo: estudiante
+[15-Sep-2025 20:09:56 America/Lima] Registro exitoso - DNI: 73658303, Nombres: IRIS PISCO, Tipo: estudiante
+[15-Sep-2025 20:10:23 America/Lima] Registro exitoso - DNI: 76775181, Nombres: LORENA ATALIA BAMBAREN AGUIRRE, Tipo: estudiante
+[15-Sep-2025 20:11:56 America/Lima] Registro exitoso - DNI: 60874176, Nombres: ANGELINA ROCIO PANTOJA HERRERA, Tipo: estudiante
+[15-Sep-2025 20:12:21 America/Lima] Consultando DNI: 60036360 - 2025-09-15 20:12:21
+[15-Sep-2025 20:12:21 America/Lima] DNI encontrado en Decolecta: 60036360
+[15-Sep-2025 20:13:22 America/Lima] Consultando DNI: 60445107 - 2025-09-15 20:13:22
+[15-Sep-2025 20:13:22 America/Lima] DNI encontrado en Decolecta: 60445107
+[15-Sep-2025 20:16:11 America/Lima] Consultando DNI: 62449042 - 2025-09-15 20:16:11
+[15-Sep-2025 20:16:12 America/Lima] DNI encontrado en Decolecta: 62449042
+[15-Sep-2025 20:16:28 America/Lima] Registro exitoso - DNI: 60244855, Nombres: EDINSON LECCA IZAGUIRRE, Tipo: estudiante
+[15-Sep-2025 20:17:09 America/Lima] Consultando DNI: 62449042 - 2025-09-15 20:17:09
+[15-Sep-2025 20:17:10 America/Lima] DNI encontrado en Decolecta: 62449042
+[15-Sep-2025 20:17:11 America/Lima] Registro exitoso - DNI: 61300413, Nombres: WALTER RODRIGO MEGIA QUISPE, Tipo: estudiante
+[15-Sep-2025 20:22:11 America/Lima] Consultando DNI: 75884158 - 2025-09-15 20:22:11
+[15-Sep-2025 20:22:11 America/Lima] DNI encontrado en Decolecta: 75884158
+[15-Sep-2025 20:29:28 America/Lima] Consultando DNI: 62449042 - 2025-09-15 20:29:28
+[15-Sep-2025 20:29:28 America/Lima] DNI encontrado en Decolecta: 62449042
+[16-Sep-2025 08:19:37 America/Lima] Consultando DNI: 47259954 - 2025-09-16 08:19:37
+[16-Sep-2025 08:19:37 America/Lima] DNI encontrado en Decolecta: 47259954
+[16-Sep-2025 08:21:06 America/Lima] Registro exitoso - DNI: 60730542, Nombres: ALEXIS JOHAO ALIAGA PAREDES, Tipo: estudiante
+[16-Sep-2025 08:22:42 America/Lima] Consultando DNI: 75948868 - 2025-09-16 08:22:42
+[16-Sep-2025 08:22:42 America/Lima] DNI encontrado en Decolecta: 75948868
+[16-Sep-2025 08:23:08 America/Lima] Registro exitoso - DNI: 75948868, Nombres: DEYSI SALAS ROJAS, Tipo: estudiante
+[16-Sep-2025 08:24:10 America/Lima] Consultando DNI: 75359088 - 2025-09-16 08:24:10
+[16-Sep-2025 08:24:10 America/Lima] DNI encontrado en Decolecta: 75359088
+[16-Sep-2025 08:24:15 America/Lima] Consultando DNI: 61950997 - 2025-09-16 08:24:15
+[16-Sep-2025 08:24:15 America/Lima] DNI encontrado en Decolecta: 61950997
+[16-Sep-2025 08:24:41 America/Lima] Registro exitoso - DNI: 75359088, Nombres: FRANCO ELIAS MAZA GONZALES, Tipo: estudiante
+[16-Sep-2025 08:25:11 America/Lima] Registro exitoso - DNI: 61950997, Nombres: GRACIELA PAULINA SAAVEDRA AMPUDIA, Tipo: estudiante
+[16-Sep-2025 08:25:16 America/Lima] Consultando DNI: 60269185 - 2025-09-16 08:25:16
+[16-Sep-2025 08:25:16 America/Lima] DNI encontrado en Decolecta: 60269185
+[16-Sep-2025 10:12:06 America/Lima] Consultando DNI: 01109834 - 2025-09-16 10:12:06
+[16-Sep-2025 10:12:06 America/Lima] DNI encontrado en Decolecta: 01109834
+[16-Sep-2025 10:12:18 America/Lima] Consultando DNI: 00000001 - 2025-09-16 10:12:18
+[16-Sep-2025 10:12:19 America/Lima] DNI encontrado en Decolecta: 00000001
+[16-Sep-2025 10:12:28 America/Lima] Consultando DNI: 00000002 - 2025-09-16 10:12:28
+[16-Sep-2025 10:12:29 America/Lima] DNI encontrado en Decolecta: 00000002
+[16-Sep-2025 10:37:51 America/Lima] Consultando DNI: 62681966 - 2025-09-16 10:37:51
+[16-Sep-2025 10:37:51 America/Lima] DNI encontrado en Decolecta: 62681966
+[16-Sep-2025 10:38:03 America/Lima] Registro exitoso - DNI: 62681966, Nombres: ROSA MARIA DOMINGUEZ LECCA, Tipo: estudiante
+[16-Sep-2025 10:38:53 America/Lima] Consultando DNI: 62779903 - 2025-09-16 10:38:53
+[16-Sep-2025 10:38:54 America/Lima] DNI encontrado en Decolecta: 62779903
+[16-Sep-2025 10:39:14 America/Lima] Registro exitoso - DNI: 62779903, Nombres: CESAR JOSE TOLENTINO DAVILA, Tipo: estudiante
+[16-Sep-2025 10:40:48 America/Lima] Consultando DNI: 76233445 - 2025-09-16 10:40:48
+[16-Sep-2025 10:40:48 America/Lima] DNI encontrado en Decolecta: 76233445
+[16-Sep-2025 10:41:02 America/Lima] Registro exitoso - DNI: 76233445, Nombres: ARELI DE JESUS TUANAMA SHARFFE, Tipo: estudiante
+[17-Sep-2025 07:53:50 America/Lima] Consultando DNI: 61950973 - 2025-09-17 07:53:50
+[17-Sep-2025 07:53:51 America/Lima] DNI encontrado en Decolecta: 61950973
+[17-Sep-2025 07:55:02 America/Lima] Consultando DNI: 60132976 - 2025-09-17 07:55:02
+[17-Sep-2025 07:55:02 America/Lima] DNI encontrado en Decolecta: 60132976
+[17-Sep-2025 07:55:55 America/Lima] Consultando DNI: 76449039 - 2025-09-17 07:55:55
+[17-Sep-2025 07:55:56 America/Lima] DNI encontrado en Decolecta: 76449039
+[17-Sep-2025 07:56:16 America/Lima] Consultando DNI: 76449039 - 2025-09-17 07:56:16
+[17-Sep-2025 07:56:17 America/Lima] DNI encontrado en Decolecta: 76449039
+[17-Sep-2025 07:56:23 America/Lima] Registro exitoso - DNI: 76449039, Nombres: SANDRA SOFIA PINEDO ROSAS, Tipo: estudiante
+[17-Sep-2025 07:56:35 America/Lima] Consultando DNI: 60984154 - 2025-09-17 07:56:35
+[17-Sep-2025 07:56:36 America/Lima] DNI encontrado en Decolecta: 60984154
+[17-Sep-2025 07:56:53 America/Lima] Registro exitoso - DNI: 60132976, Nombres: CYNDY JANETH CCOPE LOAYZA, Tipo: estudiante
+[17-Sep-2025 07:57:05 America/Lima] Consultando DNI: 61119236 - 2025-09-17 07:57:05
+[17-Sep-2025 07:57:06 America/Lima] DNI encontrado en Decolecta: 61119236
+[17-Sep-2025 07:57:12 America/Lima] Registro exitoso - DNI: 61103528, Nombres: FABIO ALEXANDER DAVID MONTOYA TANGOA, Tipo: estudiante
+[17-Sep-2025 07:57:35 America/Lima] Consultando DNI: 61950973 - 2025-09-17 07:57:35
+[17-Sep-2025 07:57:35 America/Lima] DNI encontrado en Decolecta: 61950973
+[17-Sep-2025 07:57:37 America/Lima] Consultando DNI: 76449039 - 2025-09-17 07:57:37
+[17-Sep-2025 07:57:37 America/Lima] DNI encontrado en Decolecta: 76449039
+[17-Sep-2025 07:57:42 America/Lima] Consultando DNI: 77049713 - 2025-09-17 07:57:42
+[17-Sep-2025 07:57:42 America/Lima] DNI encontrado en Decolecta: 77049713
+[17-Sep-2025 07:58:15 America/Lima] Registro exitoso - DNI: 61950973, Nombres: ARACELY LIZBETH SALVADOR HERRERA, Tipo: estudiante
+[17-Sep-2025 07:59:45 America/Lima] Consultando DNI: 60841937 - 2025-09-17 07:59:45
+[17-Sep-2025 07:59:45 America/Lima] DNI encontrado en Decolecta: 60841937
+[17-Sep-2025 07:59:51 America/Lima] Registro exitoso - DNI: 75155689, Nombres: VICTOR GABRIEL ISUIZA PéREZ, Tipo: estudiante
+[17-Sep-2025 08:00:01 America/Lima] Consultando DNI: 76449039 - 2025-09-17 08:00:01
+[17-Sep-2025 08:00:02 America/Lima] DNI encontrado en Decolecta: 76449039
+[17-Sep-2025 08:00:04 America/Lima] Registro exitoso - DNI: 60730643, Nombres: SHERYL LUCERO CUSQUISIBAN CHAVEZ, Tipo: estudiante
+[17-Sep-2025 08:00:33 America/Lima] Registro exitoso - DNI: 70959650, Nombres: CIELO MARELI NAUPARI HUANSI, Tipo: estudiante
+[17-Sep-2025 08:00:57 America/Lima] Consultando DNI: 61119152 - 2025-09-17 08:00:57
+[17-Sep-2025 08:00:58 America/Lima] DNI encontrado en Decolecta: 61119152
+[17-Sep-2025 08:01:06 America/Lima] Registro exitoso - DNI: 62851601, Nombres: ANGEE MILAGROS RENGIFO GONZALES, Tipo: estudiante
+[17-Sep-2025 08:01:07 America/Lima] Registro exitoso - DNI: 61119236, Nombres: JHOVANY ANTONELLA ESCALANTE TORRES, Tipo: estudiante
+[17-Sep-2025 08:01:16 America/Lima] Registro exitoso - DNI: 60268252, Nombres: ESTEFANY PONCE BUSTAMANTE, Tipo: estudiante
+[17-Sep-2025 08:02:02 America/Lima] Registro exitoso - DNI: 76520307, Nombres: MISHEL SARAí CRIOLLO ALVARADO, Tipo: estudiante
+[17-Sep-2025 08:02:08 America/Lima] Registro exitoso - DNI: 60984154, Nombres: KEREN YAFIT ANGULO UPIACHIHUA, Tipo: estudiante
+[17-Sep-2025 08:02:31 America/Lima] Registro exitoso - DNI: 61119152, Nombres: JENNIFER NICOL GOMEZ VALENCIA, Tipo: estudiante
+[17-Sep-2025 08:03:59 America/Lima] Registro exitoso - DNI: 61119334, Nombres: BEYBE PATRICIA CAMPOS DOMíNGUEZ, Tipo: estudiante
+[17-Sep-2025 08:04:02 America/Lima] Registro exitoso - DNI: 60841937, Nombres: ANGIE STEPHANY PEREZ QUISPE, Tipo: estudiante
+[17-Sep-2025 08:05:49 America/Lima] Registro exitoso - DNI: 61431441, Nombres: LELY YHANET SAAVEDRA CARRANZA, Tipo: estudiante
+[17-Sep-2025 08:10:22 America/Lima] Consultando DNI: 76120819 - 2025-09-17 08:10:22
+[17-Sep-2025 08:10:23 America/Lima] DNI encontrado en Decolecta: 76120819
+[17-Sep-2025 08:13:48 America/Lima] Registro exitoso - DNI: 76120819, Nombres: NIKOL LISETH MARTINEZ MAZA, Tipo: estudiante
+[17-Sep-2025 08:14:31 America/Lima] Registro exitoso - DNI: 77049713, Nombres: VILMA PEÑAHERRERA SANCHEZ, Tipo: estudiante
+[17-Sep-2025 08:45:05 America/Lima] Consultando DNI: 47259954 - 2025-09-17 08:45:05
+[17-Sep-2025 08:45:05 America/Lima] DNI encontrado en Decolecta: 47259954
+[17-Sep-2025 08:45:57 America/Lima] Registro exitoso - DNI: 60584470, Nombres: MARY MARITA BENAVIDES CIEZA, Tipo: estudiante
+[17-Sep-2025 08:46:44 America/Lima] Registro exitoso - DNI: 63381643, Nombres: IRIS MILI SANCHEZ HERRERA, Tipo: estudiante
+[17-Sep-2025 08:47:11 America/Lima] Consultando DNI: 76449039 - 2025-09-17 08:47:11
+[17-Sep-2025 08:47:12 America/Lima] DNI encontrado en Decolecta: 76449039
+[17-Sep-2025 08:47:35 America/Lima] Consultando DNI: 61119441 - 2025-09-17 08:47:35
+[17-Sep-2025 08:47:35 America/Lima] DNI encontrado en Decolecta: 61119441
+[17-Sep-2025 08:47:48 America/Lima] Registro exitoso - DNI: 61119441, Nombres: PATRICIA ROXANA RUIZ VALDIVIEZO, Tipo: estudiante
+[17-Sep-2025 08:49:56 America/Lima] Registro exitoso - DNI: 41949378, Nombres: ELI GóMEZ DEL AGUILA, Tipo: estudiante
+[17-Sep-2025 08:50:55 America/Lima] Consultando DNI: 76449039 - 2025-09-17 08:50:55
+[17-Sep-2025 08:50:55 America/Lima] DNI encontrado en Decolecta: 76449039
+[17-Sep-2025 08:54:01 America/Lima] Consultando DNI: 60516681 - 2025-09-17 08:54:01
+[17-Sep-2025 08:54:01 America/Lima] DNI encontrado en Decolecta: 60516681
+[17-Sep-2025 08:54:08 America/Lima] Registro exitoso - DNI: 60516681, Nombres: ETELDRITH CORAYMA ARANDA DOMINGUEZ, Tipo: estudiante
+[17-Sep-2025 08:54:43 America/Lima] Consultando DNI: 78002296 - 2025-09-17 08:54:43
+[17-Sep-2025 08:54:43 America/Lima] DNI encontrado en Decolecta: 78002296
+[17-Sep-2025 13:07:24 America/Lima] Consultando DNI: 60730506 - 2025-09-17 13:07:24
+[17-Sep-2025 13:07:24 America/Lima] DNI encontrado en Decolecta: 60730506
+[17-Sep-2025 13:07:38 America/Lima] Registro exitoso - DNI: 60730506, Nombres: YUMIRA LIZ PINEDO TUANAMA, Tipo: estudiante
+[18-Sep-2025 16:02:33 America/Lima] Consultando DNI: 41949378 - 2025-09-18 16:02:33
+[18-Sep-2025 16:02:34 America/Lima] DNI encontrado en Decolecta: 41949378
+[18-Sep-2025 20:56:51 America/Lima] Registro exitoso - DNI: 60445114, Nombres: JEFFERSON CARRILLO CUMAPA, Tipo: estudiante
+[18-Sep-2025 21:43:23 America/Lima] Consultando DNI: 01187174 - 2025-09-18 21:43:23
+[18-Sep-2025 21:43:23 America/Lima] DNI encontrado en Decolecta: 01187174
+[19-Sep-2025 08:37:11 America/Lima] Consultando DNI: 47259954 - 2025-09-19 08:37:11
+[19-Sep-2025 08:37:12 America/Lima] DNI encontrado en Decolecta: 47259954
+[19-Sep-2025 11:17:10 America/Lima] Consultando DNI: 47259954 - 2025-09-19 11:17:10
+[19-Sep-2025 11:17:11 America/Lima] DNI encontrado en Decolecta: 47259954
+[19-Sep-2025 11:40:18 America/Lima] Consultando DNI: 01118717 - 2025-09-19 11:40:18
+[19-Sep-2025 11:40:18 America/Lima] DNI encontrado en Decolecta: 01118717
+[19-Sep-2025 11:43:20 America/Lima] Consultando DNI: 75706137 - 2025-09-19 11:43:20
+[19-Sep-2025 11:43:20 America/Lima] DNI encontrado en Decolecta: 75706137
+[19-Sep-2025 12:20:48 America/Lima] Consultando DNI: 76905216 - 2025-09-19 12:20:48
+[19-Sep-2025 12:20:48 America/Lima] DNI encontrado en Decolecta: 76905216
+[19-Sep-2025 12:23:10 America/Lima] Consultando DNI: 76905216 - 2025-09-19 12:23:10
+[19-Sep-2025 12:23:11 America/Lima] DNI encontrado en Decolecta: 76905216
+[19-Sep-2025 12:26:34 America/Lima] Consultando DNI: 72115457 - 2025-09-19 12:26:34
+[19-Sep-2025 12:26:34 America/Lima] DNI encontrado en Decolecta: 72115457
+[19-Sep-2025 12:27:37 America/Lima] Consultando DNI: 77267161 - 2025-09-19 12:27:37
+[19-Sep-2025 12:27:37 America/Lima] DNI encontrado en Decolecta: 77267161
+[19-Sep-2025 12:27:44 America/Lima] Consultando DNI: 63258900 - 2025-09-19 12:27:44
+[19-Sep-2025 12:27:44 America/Lima] DNI encontrado en Decolecta: 63258900
+[19-Sep-2025 12:37:03 America/Lima] Consultando DNI: 76239509 - 2025-09-19 12:37:03
+[19-Sep-2025 12:37:03 America/Lima] DNI encontrado en Decolecta: 76239509
+[19-Sep-2025 12:58:28 America/Lima] Consultando DNI: 75318348 - 2025-09-19 12:58:28
+[19-Sep-2025 12:58:28 America/Lima] DNI encontrado en Decolecta: 75318348
+[19-Sep-2025 13:00:42 America/Lima] Consultando DNI: 72115457 - 2025-09-19 13:00:42
+[19-Sep-2025 13:00:42 America/Lima] DNI encontrado en Decolecta: 72115457
+[19-Sep-2025 13:01:46 America/Lima] Consultando DNI: 72115457 - 2025-09-19 13:01:46
+[19-Sep-2025 13:01:47 America/Lima] DNI encontrado en Decolecta: 72115457
+[19-Sep-2025 13:03:22 America/Lima] Consultando DNI: 75318348 - 2025-09-19 13:03:22
+[19-Sep-2025 13:03:23 America/Lima] DNI encontrado en Decolecta: 75318348
+[19-Sep-2025 13:10:14 America/Lima] Consultando DNI: 73331578 - 2025-09-19 13:10:14
+[19-Sep-2025 13:10:14 America/Lima] DNI encontrado en Decolecta: 73331578
+[19-Sep-2025 13:11:05 America/Lima] Consultando DNI: 76905216 - 2025-09-19 13:11:05
+[19-Sep-2025 13:11:05 America/Lima] DNI encontrado en Decolecta: 76905216
+[19-Sep-2025 13:13:30 America/Lima] Consultando DNI: 73331578 - 2025-09-19 13:13:30
+[19-Sep-2025 13:13:30 America/Lima] DNI encontrado en Decolecta: 73331578
+[19-Sep-2025 13:24:22 America/Lima] Consultando DNI: 71970457 - 2025-09-19 13:24:22
+[19-Sep-2025 13:24:23 America/Lima] DNI encontrado en Decolecta: 71970457
+[19-Sep-2025 13:45:33 America/Lima] Consultando DNI: 72115457 - 2025-09-19 13:45:33
+[19-Sep-2025 13:45:33 America/Lima] DNI encontrado en Decolecta: 72115457
+[19-Sep-2025 14:04:33 America/Lima] Consultando DNI: 77234256 - 2025-09-19 14:04:33
+[19-Sep-2025 14:04:33 America/Lima] DNI encontrado en Decolecta: 77234256
+[19-Sep-2025 14:05:46 America/Lima] Consultando DNI: 75315434 - 2025-09-19 14:05:46
+[19-Sep-2025 14:05:46 America/Lima] DNI encontrado en Decolecta: 75315434
+[19-Sep-2025 15:32:20 America/Lima] Consultando DNI: 63258900 - 2025-09-19 15:32:20
+[19-Sep-2025 15:32:21 America/Lima] DNI encontrado en Decolecta: 63258900
+[19-Sep-2025 17:27:27 America/Lima] Consultando DNI: 73140663 - 2025-09-19 17:27:27
+[19-Sep-2025 17:27:27 America/Lima] DNI encontrado en Decolecta: 73140663
+[19-Sep-2025 17:42:06 America/Lima] Consultando DNI: 77330646 - 2025-09-19 17:42:06
+[19-Sep-2025 17:42:07 America/Lima] DNI encontrado en Decolecta: 77330646
+[19-Sep-2025 20:40:59 America/Lima] Consultando DNI: 75208774 - 2025-09-19 20:40:59
+[19-Sep-2025 20:40:59 America/Lima] DNI encontrado en Decolecta: 75208774
+[19-Sep-2025 20:41:10 America/Lima] Consultando DNI: 75208664 - 2025-09-19 20:41:10
+[19-Sep-2025 20:41:11 America/Lima] DNI encontrado en Decolecta: 75208664
+[19-Sep-2025 20:42:17 America/Lima] Consultando DNI: 75208664 - 2025-09-19 20:42:17
+[19-Sep-2025 20:42:17 America/Lima] DNI encontrado en Decolecta: 75208664
+[19-Sep-2025 20:43:02 America/Lima] Consultando DNI: 75208664 - 2025-09-19 20:43:02
+[19-Sep-2025 20:43:02 America/Lima] DNI encontrado en Decolecta: 75208664
+[19-Sep-2025 22:23:26 America/Lima] Consultando DNI: 76688020 - 2025-09-19 22:23:26
+[19-Sep-2025 22:23:26 America/Lima] DNI encontrado en Decolecta: 76688020
+[19-Sep-2025 22:25:43 America/Lima] Consultando DNI: 76688020 - 2025-09-19 22:25:43
+[19-Sep-2025 22:25:43 America/Lima] DNI encontrado en Decolecta: 76688020
+[20-Sep-2025 18:36:26 America/Lima] Consultando DNI: 74752487 - 2025-09-20 18:36:26
+[20-Sep-2025 18:36:27 America/Lima] DNI encontrado en Decolecta: 74752487
+[20-Sep-2025 18:36:42 America/Lima] Consultando DNI: 74752487 - 2025-09-20 18:36:42
+[20-Sep-2025 18:36:42 America/Lima] DNI encontrado en Decolecta: 74752487
+[20-Sep-2025 18:46:02 America/Lima] Consultando DNI: 74752487 - 2025-09-20 18:46:02
+[20-Sep-2025 18:46:02 America/Lima] DNI encontrado en Decolecta: 74752487
+[20-Sep-2025 18:47:02 America/Lima] Consultando DNI: 40440245 - 2025-09-20 18:47:02
+[20-Sep-2025 18:47:02 America/Lima] DNI encontrado en Decolecta: 40440245
+[21-Sep-2025 02:26:42 America/Lima] Consultando DNI: 72115457 - 2025-09-21 02:26:42
+[21-Sep-2025 02:26:42 America/Lima] DNI encontrado en Decolecta: 72115457
+[21-Sep-2025 08:16:58 America/Lima] Consultando DNI: 71882580 - 2025-09-21 08:16:58
+[21-Sep-2025 08:16:58 America/Lima] DNI encontrado en Decolecta: 71882580
+[22-Sep-2025 08:35:54 America/Lima] Consultando DNI: 72115457 - 2025-09-22 08:35:54
+[22-Sep-2025 08:35:54 America/Lima] DNI encontrado en Decolecta: 72115457
+[22-Sep-2025 11:28:32 America/Lima] Consultando DNI: 75318348 - 2025-09-22 11:28:32
+[22-Sep-2025 11:28:32 America/Lima] DNI encontrado en Decolecta: 75318348
+[22-Sep-2025 11:30:12 America/Lima] Consultando DNI: 75318348 - 2025-09-22 11:30:12
+[22-Sep-2025 11:30:13 America/Lima] DNI encontrado en Decolecta: 75318348
+[22-Sep-2025 11:30:37 America/Lima] Consultando DNI: 75318348 - 2025-09-22 11:30:37
+[22-Sep-2025 11:30:38 America/Lima] DNI encontrado en Decolecta: 75318348
+[23-Sep-2025 07:56:44 America/Lima] Consultando DNI: 62773477 - 2025-09-23 07:56:44
+[23-Sep-2025 07:56:44 America/Lima] DNI encontrado en Decolecta: 62773477
+[23-Sep-2025 07:56:56 America/Lima] Registro exitoso - DNI: 62773477, Nombres: MAICOL JUNIOR FLORES ROLANDO, Tipo: estudiante
+[24-Sep-2025 08:40:10 America/Lima] Consultando DNI: 71538130 - 2025-09-24 08:40:10
+[24-Sep-2025 08:40:10 America/Lima] DNI encontrado en Decolecta: 71538130
+[24-Sep-2025 08:40:22 America/Lima] Registro exitoso - DNI: 71538130, Nombres: ADRIANO ALONSO PONCE SANCHEZ, Tipo: estudiante
+[24-Sep-2025 08:40:43 America/Lima] Consultando DNI: 75335711 - 2025-09-24 08:40:43
+[24-Sep-2025 08:40:43 America/Lima] DNI encontrado en Decolecta: 75335711
+[24-Sep-2025 08:40:55 America/Lima] Registro exitoso - DNI: 75335711, Nombres: ASTRI ROSITA EUGENIO INGUNZA, Tipo: estudiante
+[24-Sep-2025 08:41:17 America/Lima] Consultando DNI: 61119334 - 2025-09-24 08:41:17
+[24-Sep-2025 08:41:17 America/Lima] DNI encontrado en Decolecta: 61119334
+[24-Sep-2025 08:42:12 America/Lima] Consultando DNI: 62041477 - 2025-09-24 08:42:12
+[24-Sep-2025 08:42:12 America/Lima] DNI encontrado en Decolecta: 62041477
+[24-Sep-2025 08:42:26 America/Lima] Registro exitoso - DNI: 62041477, Nombres: BREINER ELIAS TARAZONA MEDINA, Tipo: estudiante
+[24-Sep-2025 09:06:47 America/Lima] Consultando DNI: 71538130 - 2025-09-24 09:06:47
+[24-Sep-2025 09:06:47 America/Lima] DNI encontrado en Decolecta: 71538130
+[24-Sep-2025 11:52:44 America/Lima] Consultando DNI: 76688005 - 2025-09-24 11:52:44
+[24-Sep-2025 11:52:44 America/Lima] DNI encontrado en Decolecta: 76688005
+[27-Sep-2025 11:04:37 America/Lima] Consultando DNI: 41388885 - 2025-09-27 11:04:37
+[27-Sep-2025 11:04:37 America/Lima] DNI encontrado en Decolecta: 41388885
+[27-Sep-2025 11:05:09 America/Lima] Registro exitoso - DNI: 41388885, Nombres: KARIN MAGDALENA MASIAS SERRANO, Tipo: estudiante
+[27-Sep-2025 18:25:26 America/Lima] Consultando DNI: 71882580 - 2025-09-27 18:25:26
+[27-Sep-2025 18:25:26 America/Lima] DNI encontrado en datos de prueba: 71882580
+[27-Sep-2025 18:25:46 America/Lima] Consultando DNI: 71882580 - 2025-09-27 18:25:46
+[27-Sep-2025 18:25:46 America/Lima] DNI encontrado en Decolecta: 71882580
+[27-Sep-2025 18:42:25 America/Lima] Consultando DNI: 47259954 - 2025-09-27 18:42:25
+[27-Sep-2025 18:42:25 America/Lima] DNI encontrado en Decolecta: 47259954
+[27-Sep-2025 18:42:46 America/Lima] Consultando DNI: 11111111 - 2025-09-27 18:42:46
+[27-Sep-2025 18:42:46 America/Lima] DNI encontrado en datos de prueba: 11111111
+[27-Sep-2025 18:43:28 America/Lima] Consultando DNI: 99999999 - 2025-09-27 18:43:28
+[27-Sep-2025 18:43:29 America/Lima] DNI encontrado en datos de prueba: 99999999
+[27-Sep-2025 18:43:44 America/Lima] Consultando DNI: 71882580 - 2025-09-27 18:43:44
+[27-Sep-2025 18:43:44 America/Lima] DNI encontrado en Decolecta: 71882580
+[27-Sep-2025 18:44:06 America/Lima] Consultando DNI: 71882580 - 2025-09-27 18:44:06
+[27-Sep-2025 18:44:06 America/Lima] DNI encontrado en datos de prueba: 71882580
+[27-Sep-2025 18:44:45 America/Lima] Consultando DNI: 71882580 - 2025-09-27 18:44:45
+[27-Sep-2025 18:44:45 America/Lima] DNI encontrado en Decolecta: 71882580
+[27-Sep-2025 18:45:29 America/Lima] Consultando DNI: 71642893 - 2025-09-27 18:45:29
+[27-Sep-2025 18:45:29 America/Lima] DNI encontrado en Decolecta: 71642893
+[27-Sep-2025 18:53:44 America/Lima] Consultando DNI: 32323232 - 2025-09-27 18:53:44
+[27-Sep-2025 18:53:52 America/Lima] DNI no encontrado: 32323232
+[27-Sep-2025 19:24:13 America/Lima] Consultando DNI: 47259954 - 2025-09-27 19:24:13
+[27-Sep-2025 19:24:14 America/Lima] DNI encontrado en Decolecta: 47259954
+[30-Sep-2025 11:31:05 America/Lima] Consultando DNI: 71741212 - 2025-09-30 11:31:05
+[30-Sep-2025 11:31:05 America/Lima] DNI encontrado en Decolecta: 71741212
+[30-Sep-2025 11:31:23 America/Lima] Registro exitoso - DNI: 71741212, Nombres: JACK ANTHONY ROJAS MARTINEZ, Tipo: estudiante
+[04-Oct-2025 18:54:25 America/Lima] Consultando DNI: 47259954 - 2025-10-04 18:54:25
+[04-Oct-2025 18:54:25 America/Lima] DNI encontrado en Decolecta: 47259954
+[04-Oct-2025 19:01:50 America/Lima] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/michelle/arqos.nexustelecom.pe/dashboard.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/michelle/arqos.nexustelecom.pe/dashboard.php on line 21
+[04-Oct-2025 19:04:26 America/Lima] Consultando DNI: 01187174 - 2025-10-04 19:04:26
+[04-Oct-2025 19:04:27 America/Lima] DNI encontrado en Decolecta: 01187174
+[04-Oct-2025 19:10:40 America/Lima] Consultando DNI: 47974525 - 2025-10-04 19:10:40
+[04-Oct-2025 19:10:40 America/Lima] DNI encontrado en Decolecta: 47974525
+[04-Oct-2025 19:10:59 America/Lima] Consultando DNI: 74752487 - 2025-10-04 19:10:59
+[04-Oct-2025 19:11:00 America/Lima] DNI encontrado en Decolecta: 74752487
+[04-Oct-2025 19:13:55 America/Lima] Registro exitoso - DNI: 47974525, Nombres: JORGE LUIS CANO CULLCUSH, Tipo: estudiante
+[04-Oct-2025 19:13:59 America/Lima] Consultando DNI: 47259954 - 2025-10-04 19:13:59
+[04-Oct-2025 19:14:00 America/Lima] DNI encontrado en Decolecta: 47259954
+[04-Oct-2025 19:14:17 America/Lima] Registro exitoso - DNI: 47259954, Nombres: ROOSVELT ENRIQUEZ GAMEZ, Tipo: docente
+[04-Oct-2025 19:16:37 America/Lima] Consultando DNI: 75659828 - 2025-10-04 19:16:37
+[04-Oct-2025 19:16:41 America/Lima] DNI encontrado en Decolecta: 75659828
+[04-Oct-2025 19:17:20 America/Lima] Consultando DNI: 78659828 - 2025-10-04 19:17:20
+[04-Oct-2025 19:17:20 America/Lima] DNI encontrado en Decolecta: 78659828
+[04-Oct-2025 19:17:40 America/Lima] Consultando DNI: 73659828 - 2025-10-04 19:17:40
+[04-Oct-2025 19:17:40 America/Lima] DNI encontrado en Decolecta: 73659828
+[04-Oct-2025 19:22:05 America/Lima] Registro exitoso - DNI: 74752487, Nombres: ABRAHAM MANUEL RODRIGUEZ LAVADO, Tipo: estudiante
+[19-Oct-2025 10:39:49 America/Lima] Consultando DNI: 71642893 - 2025-10-19 10:39:49
+[19-Oct-2025 10:39:50 America/Lima] DNI encontrado en Decolecta: 71642893
+[19-Oct-2025 10:40:28 America/Lima] Registro exitoso - DNI: 71642893, Nombres: MAITE ORIANA LOZANO SAMANIEGO, Tipo: estudiante
+[23-Nov-2025 10:11:32 America/Lima] Consultando DNI: 01187174 - 2025-11-23 10:11:32
+[23-Nov-2025 10:11:32 America/Lima] DNI encontrado en Decolecta: 01187174
+[23-Nov-2025 11:01:25 America/Lima] Consultando DNI: 47259954 - 2025-11-23 11:01:25
+[23-Nov-2025 11:01:25 America/Lima] DNI encontrado en Decolecta: 47259954
+[23-Nov-2025 16:59:44 America/Lima] Consultando DNI: 71882580 - 2025-11-23 16:59:44
+[23-Nov-2025 16:59:45 America/Lima] DNI encontrado en Decolecta: 71882580
+[23-Nov-2025 16:59:58 America/Lima] Registro exitoso - DNI: 71882580, Nombres: KAREN NORELIA RODAS RAMIREZ, Tipo: estudiante
+[06-Dec-2025 19:05:41 America/Lima] Consultando DNI: 47259954 - 2025-12-06 19:05:41
+[06-Dec-2025 19:05:41 America/Lima] DNI encontrado en Decolecta: 47259954
+[06-Dec-2025 19:06:18 America/Lima] Consultando DNI: 71642893 - 2025-12-06 19:06:18
+[06-Dec-2025 19:06:18 America/Lima] DNI encontrado en Decolecta: 71642893
+[07-Dec-2025 05:04:35 America/Lima] Consultando DNI: 47974525 - 2025-12-07 05:04:35
+[07-Dec-2025 05:04:36 America/Lima] DNI encontrado en Decolecta: 47974525
+[07-Dec-2025 10:35:37 America/Lima] Consultando DNI: 01187174 - 2025-12-07 10:35:37
+[07-Dec-2025 10:35:38 America/Lima] DNI encontrado en Decolecta: 01187174
+[07-Dec-2025 10:35:55 America/Lima] Registro exitoso - DNI: 01187174, Nombres: MAXIMO FRANCISCO ENRIQUEZ JARA, Tipo: estudiante

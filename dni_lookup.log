@@ -1,0 +1,31 @@
+[2025-09-14 21:47:55] [190.43.149.123] Nueva consulta DNI | Data: {"method":"GET","dni":"47259954","user_agent":"Mozilla\/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/140.0.0.0 Safari\/537.36"}
+[2025-09-14 21:47:55] [190.43.149.123] Iniciando consulta Decolecta | Data: {"dni":"47259954"}
+[2025-09-14 21:47:56] [190.43.149.123] Respuesta Decolecta | Data: {"http_code":404,"response_length":179,"has_error":false}
+[2025-09-14 21:47:56] [190.43.149.123] Error JSON Decolecta | Data: {"json_error":"Syntax error"}
+[2025-09-14 21:47:56] [190.43.149.123] Intentando API respaldo 1 | Data: {"dni":"47259954"}
+[2025-09-14 21:47:56] [190.43.149.123] Intentando API respaldo 2 | Data: {"dni":"47259954"}
+[2025-09-14 21:47:56] [190.43.149.123] Resultado final | Data: {"success":false,"service":"prueba","has_nombres":false}
+[2025-09-14 21:49:04] [190.43.149.76] Nueva consulta DNI | Data: {"method":"GET","dni":"47259954","user_agent":"Mozilla\/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/140.0.0.0 Safari\/537.36"}
+[2025-09-14 21:49:04] [190.43.149.76] Iniciando consulta Decolecta | Data: {"dni":"47259954"}
+[2025-09-14 21:49:04] [190.43.149.76] ERROR: Token de Decolecta no configurado
+[2025-09-14 21:49:04] [190.43.149.76] Intentando API respaldo 1 | Data: {"dni":"47259954"}
+[2025-09-14 21:49:05] [190.43.149.76] Intentando API respaldo 2 | Data: {"dni":"47259954"}
+[2025-09-14 21:49:06] [190.43.149.76] Resultado final | Data: {"success":false,"service":"prueba","has_nombres":false}
+[2025-09-14 21:49:14] [190.43.149.76] Nueva consulta DNI | Data: {"method":"GET","dni":"71882580","user_agent":"Mozilla\/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/140.0.0.0 Safari\/537.36"}
+[2025-09-14 21:49:14] [190.43.149.76] Iniciando consulta Decolecta | Data: {"dni":"71882580"}
+[2025-09-14 21:49:14] [190.43.149.76] ERROR: Token de Decolecta no configurado
+[2025-09-14 21:49:14] [190.43.149.76] Intentando API respaldo 1 | Data: {"dni":"71882580"}
+[2025-09-14 21:49:14] [190.43.149.76] Intentando API respaldo 2 | Data: {"dni":"71882580"}
+[2025-09-14 21:49:15] [190.43.149.76] Resultado final | Data: {"success":true,"service":"datos_prueba","has_nombres":true}
+[2025-09-14 21:50:17] [190.43.149.123] Nueva consulta DNI | Data: {"method":"GET","dni":"71882580","user_agent":"Mozilla\/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/140.0.0.0 Safari\/537.36"}
+[2025-09-14 21:50:17] [190.43.149.123] Iniciando consulta Decolecta | Data: {"dni":"71882580"}
+[2025-09-14 21:50:17] [190.43.149.123] ERROR: Token de Decolecta no configurado
+[2025-09-14 21:50:17] [190.43.149.123] Intentando API respaldo 1 | Data: {"dni":"71882580"}
+[2025-09-14 21:50:18] [190.43.149.123] Intentando API respaldo 2 | Data: {"dni":"71882580"}
+[2025-09-14 21:50:18] [190.43.149.123] Resultado final | Data: {"success":true,"service":"datos_prueba","has_nombres":true}
+[2025-09-14 21:56:12] [190.43.252.116] Nueva consulta DNI | Data: {"method":"GET","dni":"71882580","user_agent":"Mozilla\/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/140.0.0.0 Safari\/537.36"}
+[2025-09-14 21:56:12] [190.43.252.116] Iniciando consulta Decolecta | Data: {"dni":"71882580"}
+[2025-09-14 21:56:12] [190.43.252.116] ERROR: Token de Decolecta no configurado
+[2025-09-14 21:56:12] [190.43.252.116] Intentando API respaldo 1 | Data: {"dni":"71882580"}
+[2025-09-14 21:56:12] [190.43.252.116] Intentando API respaldo 2 | Data: {"dni":"71882580"}
+[2025-09-14 21:56:13] [190.43.252.116] Resultado final | Data: {"success":true,"service":"datos_prueba","has_nombres":true}

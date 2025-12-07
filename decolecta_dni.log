@@ -1,0 +1,12 @@
+[2025-09-14 22:13:05] [190.43.252.116] Nueva consulta DNI | {"method":"GET","dni":"46027897","timestamp":"2025-09-14 22:13:05","user_agent":"Mozilla\/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/140.0.0.0 Safari\/537.36"}
+[2025-09-14 22:13:05] [190.43.252.116] Iniciando consulta Decolecta oficial | {"dni":"46027897"}
+[2025-09-14 22:13:05] [190.43.252.116] URL construida | {"url":"https:\/\/api.decolecta.com\/v1\/reniec\/dni?numero=46027897"}
+[2025-09-14 22:13:05] [190.43.252.116] Respuesta HTTP | {"http_code":200,"response_length":158,"success":true}
+[2025-09-14 22:13:05] [190.43.252.116] Consulta exitosa | {"success":true,"nombres":"ERACLEO JUAN","apellidos":"HUAMANI MENDOZA","nombre_completo":"ERACLEO JUAN HUAMANI MENDOZA","service":"decolecta_reniec","timestamp":"2025-09-14 22:13:05","dni":"46027897"}
+[2025-09-14 22:13:05] [190.43.252.116] Resultado final | {"success":true,"service":"decolecta_reniec","has_data":true}
+[2025-09-15 06:15:24] [190.43.149.97] Nueva consulta DNI | {"method":"GET","dni":"71882580","timestamp":"2025-09-15 06:15:24","user_agent":"Mozilla\/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/140.0.0.0 Safari\/537.36"}
+[2025-09-15 06:15:24] [190.43.149.97] Iniciando consulta Decolecta oficial | {"dni":"71882580"}
+[2025-09-15 06:15:24] [190.43.149.97] ERROR: Token no configurado
+[2025-09-15 06:15:24] [190.43.149.97] Intentando API de respaldo | {"dni":"71882580"}
+[2025-09-15 06:15:24] [190.43.149.97] DNI encontrado en datos de prueba | {"dni":"71882580"}
+[2025-09-15 06:15:24] [190.43.149.97] Resultado final | {"success":true,"service":"datos_prueba","has_data":true}
